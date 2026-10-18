@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/作業-模仿APPSTORE上架的APP-purple.svg?style=flat-square" alt="Homework" />
   </p>
   <p><b>一個完全使用 SwiftUI 製作模仿的精美 APP 靜態畫面專案 🌈</b></p>
-  <p>👉 <a href="">查看 Medium 報告</a></p>
+  <p>👉 <a href="https://medium.com/@peterabc219/7b10363a477c">查看 Medium 報告</a></p>
 </div>
 
 ---
@@ -26,4 +26,4 @@
 - modifier：padding、background、font、foregroundStyle、frame、offset...
 - 學習使用多個檔案定義 view 的型別並利用 property 客製自訂的 SwiftUI view
 
-📖 **Medium 文章連結：** 👉 [[點此閱讀完整心得報告]]()
+📖 **Medium 文章連結：** 👉 [[點此閱讀完整心得報告]](https://medium.com/@peterabc219/7b10363a477c)
